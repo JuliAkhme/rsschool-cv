@@ -1,14 +1,14 @@
-# Yuliya 
-# **Akhmedava**
+![Foto](./photo.jpg)
+# Yuliya Akhmedava
 
 ## Contact Information
 
-Location: Minsk, Belarus
-Phone: +375 (29) 361-91-20
-Email: julia.ahmedova@tut.by
-Telegram: @juliakhme
-GitHub: [JuliAkhme](https://github.com/JuliAkhme)
-[LinkedIn](https://www.linkedin.com/in/yuliya-akhmedava-224465195/)
+Location: Minsk, Belarus  
+Phone: +375 (29) 361-91-20  
+Email: julia.ahmedova@tut.by  
+Telegram: [@juliakhme](https://t.me/juliakhme)  
+GitHub: [JuliAkhme](https://github.com/JuliAkhme)  
+[LinkedIn](https://www.linkedin.com/in/yuliya-akhmedava-224465195/)  
 
 ## Summary
 
@@ -19,16 +19,16 @@ I am a highly motivated and fast learner. Prior to transitioning to tech, I spen
 I am seeking an opportunity to join a strong team where I can launch my career and apply and deepen my knowledge in practice.
 
 ## Skills
-[x] HTML5, CSS3
+- [x] HTML5, CSS3
 - [x] JavaScript, TypeScript (Basics)
 - [x] React
 - [x] Webpack
 - [x] Git, GitHub
 
 ## Code Examples
-*Instruction:* 
-Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).
-*Solution*
+**Instruction:**  
+Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).  
+**Solution:**  
 ```
 function solution(str, ending){
   return str.endsWith(ending);
@@ -40,10 +40,8 @@ Educational project [Zakryvayuschiy Teg](https://juliakhme.github.io/zakrivayusc
 
 ## Education
 
-**RS SCHOOL** / September 2025 (in progress), JavaScript/Front-end 
-
-**Yandex Practicum** / April 2024 – May 2025, Frontend Developer
-
+**RS SCHOOL** / September 2025 (in progress), JavaScript/Front-end  
+**Yandex Practicum** / April 2024 – May 2025, Frontend Developer  
 **Belarussian State University** / 2009 – 2014, Bachelor, Romance and Germanic (German) Philology
 
 ## Languages
