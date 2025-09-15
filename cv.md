@@ -3,11 +3,16 @@
 ## Contact Information
 
 Location: Minsk, Belarus
+
 Phone: +375 (29) 361-91-20
+
 Email: julia.ahmedova@tut.by
+
 Telegram: @juliakhme
-GitHub: [JuliAkhme] (https://github.com/JuliAkhme)
-[LinkedIn] (https://www.linkedin.com/in/yuliya-akhmedava-224465195/)
+
+GitHub: [JuliAkhme](https://github.com/JuliAkhme)
+
+[LinkedIn](https://www.linkedin.com/in/yuliya-akhmedava-224465195/)
 
 ## Summary
 
@@ -32,12 +37,15 @@ Educational projects
 https://juliakhme.github.io/zakrivayuschiy-teg-f/ (https://github.com/JuliAkhme/zakrivayuschiy-teg-f)
 
 ## Education
+
 **RS SCHOOL** / September 2025 (in progress), JavaScript/Front-end 
+
 **Yandex Practicum** / April 2024 – May 2025, Frontend Developer
+
 **Belarussian State University** / 2009 – 2014, Bachelor, Romance and Germanic (German) Philology
 
 ## Languages
-* English – Pre-Intermediate (A2)
-* Russian – Native 
-* German – Advanced (C1)
-* Italian – Pre-Intermediate (A2)
+* **English** – Pre-Intermediate (A2)
+* **Russian** – Native 
+* **German** – Advanced (C1)
+* **Italian** – Pre-Intermediate (A2)
